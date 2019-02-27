@@ -126,6 +126,10 @@
       <Name>RollTotalMinorTaxRD.rdl</Name>
       <FullPath>RollTotalMinorTaxRD.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Roll Totals.rdl</Name>
+      <FullPath>Roll Totals.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
